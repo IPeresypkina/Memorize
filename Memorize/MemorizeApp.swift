@@ -11,8 +11,8 @@ import SwiftUI
 struct MemorizeApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-            ContentTask1View()
+            ContentView()
+//            ContentTask1View()
         }
     }
 }
